@@ -25,4 +25,4 @@
 - [article image after](https://github.com/SmirnovAntonZP/analitika/blob/main/web_technology/seminar_1/images/article%20image%20after.png)
 
 ### 4. Создайте прототип низкой детализации.
-- [low visual prototype](https://github.com/SmirnovAntonZP/analitika/blob/main/web_technology/seminar_1/images/low%20visual%20prototype.png)
+- [low visual prototype](https://github.com/SmirnovAntonZP/analitika/blob/main/web_technology/seminar_1/images/%20low%20visual%20prototype.png)
