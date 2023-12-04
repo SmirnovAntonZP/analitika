@@ -21,7 +21,7 @@
 - [menu bar before](https://github.com/SmirnovAntonZP/analitika/blob/main/web_technology/seminar_1/images/menu%20bar%20before.png)
 - [menu bar after](https://github.com/SmirnovAntonZP/analitika/blob/main/web_technology/seminar_1/images/menu%20bar%20after.png)
 
-- [article image before](https://github.com/SmirnovAntonZP/analitika/blob/main/web_technology/seminar_1/images/article%20image%20after.png)
+- [article image before](https://github.com/SmirnovAntonZP/analitika/blob/main/web_technology/seminar_1/images/article%20image%20before.png)
 - [article image after](https://github.com/SmirnovAntonZP/analitika/blob/main/web_technology/seminar_1/images/article%20image%20after.png)
 
 ### 4. Создайте прототип низкой детализации.
